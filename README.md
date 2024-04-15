@@ -11,7 +11,7 @@ LED lights and
 buzzers
 
 # setup the model as shown in the circuit diagram
-Connects the components and plug the Arduino Uno board power jack to your laptop/PC.
+Connect the components and plug the Arduino Uno board power jack to your laptop/PC.
 
 # arduino ide
 Install Arduino IDE.
