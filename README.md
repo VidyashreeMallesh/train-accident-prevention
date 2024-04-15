@@ -1,7 +1,7 @@
 # train-accident-prevention
 
 # setup the model
-# components required
+components required are:
 Arduino Uno board
 Battery or cable
 Ultrasonic sensor
